@@ -3,7 +3,7 @@
 纯静态站点：Markdown 写内容 → 一条命令生成 `docs/` → GitHub Pages 直接托管。
 没有数据库、没有服务器、没有需要续费的建站套餐，一年的支出只有域名费。
 
-- 站点地址：**待绑定**（见「绑定自有域名」）
+- 站点地址：**https://liulinouc.cn**（绑定步骤见 [上线指引.md](上线指引.md)）
 - 托管：GitHub Pages（`docs/` 目录，main 分支，无需 CI）
 - 域名：阿里云注册，DNSPod/万网解析（`dns1/dns2.hichina.com`）
 

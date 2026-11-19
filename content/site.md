@@ -9,7 +9,7 @@ university: 中国海洋大学
 email: liulin1991@ouc.edu.cn
 phone: 0532-66785926
 address: 山东省青岛市崂山区松岭路 238 号
-domain: your-domain.com
+domain: liulinouc.cn
 updated: 2026-11-19
 ---
 
