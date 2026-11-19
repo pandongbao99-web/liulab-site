@@ -1,0 +1,10 @@
+{
+  "name": "liulab-site",
+  "private": true,
+  "type": "module",
+  "description": "刘琳课题组网站（静态站，零依赖构建）",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && python3 -m http.server 8788 --directory docs"
+  }
+}
